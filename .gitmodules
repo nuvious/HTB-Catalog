@@ -1,0 +1,3 @@
+[submodule "HTB-Catalog-Fetcher"]
+	path = HTB-Catalog-Fetcher
+	url = git@github.com:nuvious/HTB-Catalog-Fetcher.git
