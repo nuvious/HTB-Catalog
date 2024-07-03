@@ -23,7 +23,8 @@ interests and will try to keep it up to date as best I can.
 ## Note to HTB
 
 If this repository is for any reason inappropriate or against your TOS, please
-open up an issue requesting the repository's removal.
+open up an issue requesting the repository's removal from anyone in your GitHub
+organization and I'll happily comply.
 
 ## Schema
 
