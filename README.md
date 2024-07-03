@@ -20,6 +20,11 @@ If the repository falls significantly out of date feel free to open up an issue
 to get my attention. I have enough reason to keep this populated for my own
 interests and will try to keep it up to date as best I can.
 
+## Note to HTB
+
+If this repository is for any reason inappropriate or against your TOS, please
+open up an issue requesting the repository's removal.
+
 ## Schema
 
 ### Machines
